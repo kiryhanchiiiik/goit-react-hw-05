@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  gap: 5px;
+}
+.input {
+  background: transparent;
+  border-radius: 8px;
+  border: 1px solid #ffffffff;
+  width: 300px;
+  padding: 10px;
+}
